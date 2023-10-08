@@ -8,6 +8,8 @@ At my part-time job, my work schedule was posted on Microsoft Teams. I wanted th
   &emsp;&emsp;-Takes those shifts and converts them into an ical file<br /><br />
   &emsp;&emsp;-Uploads the ical file to dropbox<br /><br />
   &emsp;&emsp;-I subscribed to the dropbox link on the ical app on my phone and all my shifts show up :)<br /><br />
+  &emsp;&emsp;-Running on my Raspberry Pi<br /><br />
+  &emsp;&emsp;-If any exception were to occur in the code, I would receive an email telling me something went wrong<br /><br />
  
 <br />
 I made this all by myself!<br />
