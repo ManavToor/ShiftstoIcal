@@ -1,7 +1,7 @@
 <h1>Microsoft Teams Scraper</h1>
 
 <h2>Description</h2>
-At my part-time job, my work schedule was posted on Microsoft Teams. I wanted them to apear on the Apple Calendar app on my iphone but there was no way to do so, so I made a bot that did it for me<br />
+At my part-time job, my work schedule was posted on Microsoft Teams. I wanted my shifts to apear on the Apple Calendar app on my iphone but there was no way to do so, so I made a bot that did it for me<br />
 <br />
 <b>This is my web scraper:</b><br /><br />
   &emsp;&emsp;-Logs into my MS Teams account and gets all my shifts from the previous, current, and following months. Puts them into JSON files<br /><br />
